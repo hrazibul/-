@@ -1,0 +1,5 @@
+{
+  "name": "Knowledge Book Assistant",
+  "description": "An app that lets users upload PDF/DOCX knowledge-base files, indexes those files for retrieval, and answers user questions by combining retrieved evidence with a generative model. The app shows source citations and provides concise, accurate answers in plain English.",
+  "requestFramePermissions": []
+}
